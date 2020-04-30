@@ -1,0 +1,15 @@
+Package: migou
+Type: Package
+Title: Minimum variance estimation of GRM
+Version: 0.1
+Date: 2020-04-29
+Author: Hervé Perdry
+Encoding: UTF-8
+Maintainer: Hervé Perdry <herve.perdry@u-psud.fr>
+Description: Computes blablabla
+Depends: gaston (>= 1.5.6)
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3)
+LazyData: yes
+LinkingTo: Rcpp, RcppEigen, RcppParallel, gaston
+RoxygenNote: 7.0.2
